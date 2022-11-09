@@ -80,5 +80,4 @@ public class Principal {
 			e.printStackTrace();
 		}
 	}
-	//Prueba
 }
